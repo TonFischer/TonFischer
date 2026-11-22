@@ -1,4 +1,4 @@
-# Hi, I'm Nicholas Ton Fischer
+# Hi, I'm Nicholas
 
 Compliance professional focused on **AML/CFT, KYC/CDD, transaction monitoring, and virtual asset regulation**, based in Curitiba, Brazil. Outside of compliance, I run my own Linux desktop and self-hosted infrastructure, and build AI-assisted workflows to automate everyday work.
 
